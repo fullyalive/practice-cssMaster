@@ -1,20 +1,10 @@
 {
   "name": "practice-cssMaster",
   "version": "1.0.0",
-  "description": "CSS Masterclass course (Flexbox, Grid, PostCSS, CSSNext)",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/fullyalive/practice-cssMaster.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/fullyalive/practice-cssMaster/issues"
-  },
-  "homepage": "https://github.com/fullyalive/practice-cssMaster#readme",
-  "scripts": {
-    "start": "parcel index.html"
-  },
-  "main": "index.js"
+  "description": "Practicing several css techniques",
+  "main": "index.js",
+  "repository": "https://github.com/fullyalive/practice-cssMaster.git",
+  "author": "fullyalive <wogud1202@gmail.com>",
+  "license": "MIT",
+  "private": false
 }
